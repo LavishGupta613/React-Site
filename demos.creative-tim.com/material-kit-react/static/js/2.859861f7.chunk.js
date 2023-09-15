@@ -1,4 +1,4 @@
-/*!For license information please see 2.859861f7.chunk.js.LICENSE.txt*/
+/*!For license information lease see 2.859861f7.chunk.js.LICENSE.txt*/
 (this["webpackJsonpmaterial-kit-2-react"] = this["webpackJsonpmaterial-kit-2-react"] || []).push([
     [2],
     [function(e, t, n) {
